@@ -1,0 +1,7 @@
+aba(123) caba(22)
+caba(22) daba(34)
+aba(123) daba(34)
+ba(34) caba(22)
+eva(123) aba(123)
+eva(123) ba(34)
+eva(123) caba(22)
