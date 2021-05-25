@@ -12,7 +12,7 @@ import java.util.stream.IntStream;
 
 public class Solver {
     public static final double EPS = 0.01;
-    public static final int TIME_LIMIT = 3600;
+    public static int TIME_LIMIT = 300;
     private IloCplex cplex;
     private Map<Edge, Pair<IloNumVar, IloNumVar>> x;
     private Map<Node, IloNumVar> d;
